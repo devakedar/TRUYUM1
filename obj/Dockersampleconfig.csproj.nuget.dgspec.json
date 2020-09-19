@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj": {}
+    "C:\\Users\\Deva\\Downloads\\stage 4\\learnings-master\\learnings-master\\Dockersampleconfig.csproj": {}
   },
   "projects": {
-    "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj": {
+    "C:\\Users\\Deva\\Downloads\\stage 4\\learnings-master\\learnings-master\\Dockersampleconfig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj",
+        "projectUniqueName": "C:\\Users\\Deva\\Downloads\\stage 4\\learnings-master\\learnings-master\\Dockersampleconfig.csproj",
         "projectName": "Dockersampleconfig",
-        "projectPath": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj",
-        "packagesPath": "C:\\Users\\Shrivalli\\.nuget\\packages\\",
-        "outputPath": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\obj\\",
+        "projectPath": "C:\\Users\\Deva\\Downloads\\stage 4\\learnings-master\\learnings-master\\Dockersampleconfig.csproj",
+        "packagesPath": "C:\\Users\\Deva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Deva\\Downloads\\stage 4\\learnings-master\\learnings-master\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shrivalli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Deva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
